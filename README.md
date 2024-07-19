@@ -59,7 +59,7 @@ $ conda create -n myenv python=3.9
 $ conda activate myenv
 ```
 When activated the conda env name should now be displayed next to the prompt in the terminal (`(myenv)$`). 
-<ins>Note:</ins> If the error `CondaError: Run "conda init" before "conda activate" then try restarting the terminal and reactivating the conda env to try and resolve the issue. 
+<ins>Note:</ins> If the error `CondaError: Run "conda init" before "conda activate"`, then try restarting the terminal and reactivating the conda env to try and resolve the issue. 
 
 <ins>Basic conda env commands:</ins> 
 ```
